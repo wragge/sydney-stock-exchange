@@ -1,0 +1,17 @@
+*.pyc
+.DS_Store
+._sync*
+.owncloudsync*
+credentials.py
+testing
+test
+processed
+problems
+problem-testing
+old-versions
+ocr
+data
+cropped
+headers
+zooniverse
+.ipynb_checkpoints
