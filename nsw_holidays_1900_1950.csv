@@ -1,6 +1,6 @@
 date,holiday,year
 1900-01-01,New Years day,1900
-1900-01-26,Australia Day,1900
+1900-01-26,Anniversary Day,1900
 1900-04-13,Good Friday,1900
 1900-04-14,Easter Saturday,1900
 1900-04-16,Easter Monday,1900
@@ -11,7 +11,7 @@ date,holiday,year
 1900-12-25,Christmas Day,1900
 1900-12-26,Boxing Day,1900
 1901-01-01,New Years day,1901
-1901-01-26,Australia Day,1901
+1901-01-26,Anniversary Day,1901
 1901-02-02,Day of Mourning for Queen,1901
 1901-04-05,Good Friday,1901
 1901-04-06,Easter Saturday,1901
@@ -23,7 +23,7 @@ date,holiday,year
 1901-12-25,Christmas Day,1901
 1901-12-26,Boxing Day,1901
 1902-01-01,New Years day,1902
-1902-01-27,Australia Day,1902
+1902-01-27,Anniversary Day,1902
 1902-03-28,Good Friday,1902
 1902-03-29,Easter Saturday,1902
 1902-03-31,Easter Monday,1902
@@ -34,7 +34,7 @@ date,holiday,year
 1902-12-25,Christmas Day,1902
 1902-12-26,Boxing Day,1902
 1903-01-01,New Years day,1903
-1903-01-26,Australia Day,1903
+1903-01-26,Anniversary Day,1903
 1903-04-10,Good Friday,1903
 1903-04-11,Easter Saturday,1903
 1903-04-13,Easter Monday,1903
@@ -45,7 +45,7 @@ date,holiday,year
 1903-12-25,Christmas Day,1903
 1903-12-26,Boxing Day,1903
 1904-01-01,New Years day,1904
-1904-01-26,Australia Day,1904
+1904-01-26,Anniversary Day,1904
 1904-04-01,Good Friday,1904
 1904-04-02,Easter Saturday,1904
 1904-04-04,Easter Monday,1904
@@ -56,7 +56,7 @@ date,holiday,year
 1904-12-26,Christmas Day,1904
 1904-12-27,Boxing Day,1904
 1905-01-02,New Years day,1905
-1905-01-26,Australia Day,1905
+1905-01-26,Anniversary Day,1905
 1905-04-21,Good Friday,1905
 1905-04-22,Easter Saturday,1905
 1905-04-24,Easter Monday,1905
@@ -67,7 +67,7 @@ date,holiday,year
 1905-12-25,Christmas Day,1905
 1905-12-26,Boxing Day,1905
 1906-01-01,New Years day,1906
-1906-01-26,Australia Day,1906
+1906-01-26,Anniversary Day,1906
 1906-04-13,Good Friday,1906
 1906-04-14,Easter Saturday,1906
 1906-04-16,Easter Monday,1906
@@ -78,7 +78,7 @@ date,holiday,year
 1906-12-25,Christmas Day,1906
 1906-12-26,Boxing Day,1906
 1907-01-01,New Years day,1907
-1907-01-26,Australia Day,1907
+1907-01-26,Anniversary Day,1907
 1907-03-29,Good Friday,1907
 1907-03-30,Easter Saturday,1907
 1907-04-01,Easter Monday,1907
@@ -89,7 +89,7 @@ date,holiday,year
 1907-12-25,Christmas Day,1907
 1907-12-26,Boxing Day,1907
 1908-01-01,New Years day,1908
-1908-01-27,Australia Day,1908
+1908-01-27,Anniversary Day,1908
 1908-04-17,Good Friday,1908
 1908-04-18,Easter Saturday,1908
 1908-04-20,Easter Monday,1908
@@ -100,7 +100,7 @@ date,holiday,year
 1908-12-25,Christmas Day,1908
 1908-12-26,Boxing Day,1908
 1909-01-01,New Years day,1909
-1909-01-26,Australia Day,1909
+1909-01-26,Anniversary Day,1909
 1909-04-09,Good Friday,1909
 1909-04-10,Easter Saturday,1909
 1909-04-12,Easter Monday,1909
@@ -111,7 +111,7 @@ date,holiday,year
 1909-12-25,Christmas Day,1909
 1909-12-27,Boxing Day,1909
 1910-01-01,New Years day,1910
-1910-01-26,Australia Day,1910
+1910-01-26,Anniversary Day,1910
 1910-03-25,Good Friday,1910
 1910-03-26,Easter Saturday,1910
 1910-03-28,Easter Monday,1910
@@ -123,7 +123,7 @@ date,holiday,year
 1910-12-26,Christmas Day,1910
 1910-12-27,Boxing Day,1910
 1911-01-02,New Years day,1911
-1911-01-26,Australia Day,1911
+1911-01-26,Anniversary Day,1911
 1911-02-22,Coronation,1911
 1911-04-14,Good Friday,1911
 1911-04-15,Easter Saturday,1911
@@ -135,7 +135,7 @@ date,holiday,year
 1911-12-25,Christmas Day,1911
 1911-12-26,Boxing Day,1911
 1912-01-01,New Years day,1912
-1912-01-26,Australia Day,1912
+1912-01-26,Anniversary Day,1912
 1912-04-05,Good Friday,1912
 1912-04-06,Easter Saturday,1912
 1912-04-08,Easter Monday,1912
@@ -146,7 +146,7 @@ date,holiday,year
 1912-12-25,Christmas Day,1912
 1912-12-26,Boxing Day,1912
 1913-01-01,New Years day,1913
-1913-01-27,Australia Day,1913
+1913-01-27,Anniversary Day,1913
 1913-03-21,Good Friday,1913
 1913-03-22,Easter Saturday,1913
 1913-03-24,Easter Monday,1913
@@ -157,7 +157,7 @@ date,holiday,year
 1913-12-25,Christmas Day,1913
 1913-12-26,Boxing Day,1913
 1914-01-01,New Years day,1914
-1914-01-26,Australia Day,1914
+1914-01-26,Anniversary Day,1914
 1914-04-10,Good Friday,1914
 1914-04-11,Easter Saturday,1914
 1914-04-13,Easter Monday,1914
@@ -168,7 +168,7 @@ date,holiday,year
 1914-12-25,Christmas Day,1914
 1914-12-26,Boxing Day,1914
 1915-01-01,New Years day,1915
-1915-01-26,Australia Day,1915
+1915-01-26,Anniversary Day,1915
 1915-04-02,Good Friday,1915
 1915-04-03,Easter Saturday,1915
 1915-04-05,Easter Monday,1915
@@ -179,7 +179,7 @@ date,holiday,year
 1915-12-25,Christmas Day,1915
 1915-12-27,Boxing Day,1915
 1916-01-01,New Years day,1916
-1916-01-26,Australia Day,1916
+1916-01-26,Anniversary Day,1916
 1916-04-21,Good Friday,1916
 1916-04-22,Easter Saturday,1916
 1916-04-24,Easter Monday,1916
@@ -190,7 +190,7 @@ date,holiday,year
 1916-12-25,Christmas Day,1916
 1916-12-26,Boxing Day,1916
 1917-01-01,New Years day,1917
-1917-01-26,Australia Day,1917
+1917-01-26,Anniversary Day,1917
 1917-04-06,Good Friday,1917
 1917-04-07,Easter Saturday,1917
 1917-04-09,Easter Monday,1917
@@ -201,7 +201,7 @@ date,holiday,year
 1917-12-25,Christmas Day,1917
 1917-12-26,Boxing Day,1917
 1918-01-01,New Years day,1918
-1918-01-26,Australia Day,1918
+1918-01-26,Anniversary Day,1918
 1918-03-29,Good Friday,1918
 1918-03-30,Easter Saturday,1918
 1918-04-01,Easter Monday,1918
@@ -212,7 +212,7 @@ date,holiday,year
 1918-12-25,Christmas Day,1918
 1918-12-26,Boxing Day,1918
 1919-01-01,New Years day,1919
-1919-01-27,Australia Day,1919
+1919-01-27,Anniversary Day,1919
 1919-04-18,Good Friday,1919
 1919-04-19,Easter Saturday,1919
 1919-04-21,Easter Monday,1919
@@ -223,7 +223,7 @@ date,holiday,year
 1919-12-25,Christmas Day,1919
 1919-12-26,Boxing Day,1919
 1920-01-01,New Years day,1920
-1920-01-26,Australia Day,1920
+1920-01-26,Anniversary Day,1920
 1920-04-02,Good Friday,1920
 1920-04-03,Easter Saturday,1920
 1920-04-05,Easter Monday,1920
@@ -234,7 +234,7 @@ date,holiday,year
 1920-12-25,Christmas Day,1920
 1920-12-27,Boxing Day,1920
 1921-01-01,New Years day,1921
-1921-01-26,Australia Day,1921
+1921-01-26,Anniversary Day,1921
 1921-03-25,Good Friday,1921
 1921-03-26,Easter Saturday,1921
 1921-03-28,Easter Monday,1921
@@ -245,7 +245,7 @@ date,holiday,year
 1921-12-26,Christmas Day,1921
 1921-12-27,Boxing Day,1921
 1922-01-02,New Years day,1922
-1922-01-26,Australia Day,1922
+1922-01-26,Anniversary Day,1922
 1922-04-14,Good Friday,1922
 1922-04-15,Easter Saturday,1922
 1922-04-17,Easter Monday,1922
@@ -256,7 +256,7 @@ date,holiday,year
 1922-12-25,Christmas Day,1922
 1922-12-26,Boxing Day,1922
 1923-01-01,New Years day,1923
-1923-01-26,Australia Day,1923
+1923-01-26,Anniversary Day,1923
 1923-03-30,Good Friday,1923
 1923-03-31,Easter Saturday,1923
 1923-04-02,Easter Monday,1923
@@ -267,7 +267,7 @@ date,holiday,year
 1923-12-25,Christmas Day,1923
 1923-12-26,Boxing Day,1923
 1924-01-01,New Years day,1924
-1924-01-26,Australia Day,1924
+1924-01-26,Anniversary Day,1924
 1924-04-18,Good Friday,1924
 1924-04-19,Easter Saturday,1924
 1924-04-21,Easter Monday,1924
@@ -278,7 +278,7 @@ date,holiday,year
 1924-12-25,Christmas Day,1924
 1924-12-26,Boxing Day,1924
 1925-01-01,New Years day,1925
-1925-01-26,Australia Day,1925
+1925-01-26,Anniversary Day,1925
 1925-04-10,Good Friday,1925
 1925-04-11,Easter Saturday,1925
 1925-04-13,Easter Monday,1925
@@ -289,7 +289,7 @@ date,holiday,year
 1925-12-25,Christmas Day,1925
 1925-12-26,Boxing Day,1925
 1926-01-01,New Years day,1926
-1926-01-26,Australia Day,1926
+1926-01-26,Anniversary Day,1926
 1926-04-02,Good Friday,1926
 1926-04-03,Easter Saturday,1926
 1926-04-05,Easter Monday,1926
@@ -300,7 +300,7 @@ date,holiday,year
 1926-12-25,Christmas Day,1926
 1926-12-27,Boxing Day,1926
 1927-01-01,New Years day,1927
-1927-01-26,Australia Day,1927
+1927-01-26,Anniversary Day,1927
 1927-04-15,Good Friday,1927
 1927-04-16,Easter Saturday,1927
 1927-04-18,Easter Monday,1927
@@ -311,7 +311,7 @@ date,holiday,year
 1927-12-26,Christmas Day,1927
 1927-12-27,Boxing Day,1927
 1928-01-02,New Years day,1928
-1928-01-26,Australia Day,1928
+1928-01-26,Anniversary Day,1928
 1928-04-06,Good Friday,1928
 1928-04-07,Easter Saturday,1928
 1928-04-09,Easter Monday,1928
@@ -322,7 +322,7 @@ date,holiday,year
 1928-12-25,Christmas Day,1928
 1928-12-26,Boxing Day,1928
 1929-01-01,New Years day,1929
-1929-01-26,Australia Day,1929
+1929-01-26,Anniversary Day,1929
 1929-03-29,Good Friday,1929
 1929-03-30,Easter Saturday,1929
 1929-04-01,Easter Monday,1929
@@ -333,7 +333,7 @@ date,holiday,year
 1929-12-25,Christmas Day,1929
 1929-12-26,Boxing Day,1929
 1930-01-01,New Years day,1930
-1930-01-27,Australia Day,1930
+1930-01-27,Anniversary Day,1930
 1930-04-18,Good Friday,1930
 1930-04-19,Easter Saturday,1930
 1930-04-21,Easter Monday,1930
@@ -344,7 +344,7 @@ date,holiday,year
 1930-12-25,Christmas Day,1930
 1930-12-26,Boxing Day,1930
 1931-01-01,New Years day,1931
-1931-01-26,Australia Day,1931
+1931-01-26,Anniversary Day,1931
 1931-04-03,Good Friday,1931
 1931-04-04,Easter Saturday,1931
 1931-04-06,Easter Monday,1931
@@ -355,7 +355,7 @@ date,holiday,year
 1931-12-25,Christmas Day,1931
 1931-12-26,Boxing Day,1931
 1932-01-01,New Years day,1932
-1932-01-26,Australia Day,1932
+1932-01-26,Anniversary Day,1932
 1932-03-25,Good Friday,1932
 1932-03-26,Easter Saturday,1932
 1932-03-28,Easter Monday,1932
@@ -366,7 +366,7 @@ date,holiday,year
 1932-12-26,Christmas Day,1932
 1932-12-27,Boxing Day,1932
 1933-01-02,New Years day,1933
-1933-01-26,Australia Day,1933
+1933-01-26,Anniversary Day,1933
 1933-04-14,Good Friday,1933
 1933-04-15,Easter Saturday,1933
 1933-04-17,Easter Monday,1933
@@ -377,7 +377,7 @@ date,holiday,year
 1933-12-25,Christmas Day,1933
 1933-12-26,Boxing Day,1933
 1934-01-01,New Years day,1934
-1934-01-26,Australia Day,1934
+1934-01-26,Anniversary Day,1934
 1934-03-30,Good Friday,1934
 1934-03-31,Easter Saturday,1934
 1934-04-02,Easter Monday,1934
@@ -388,7 +388,7 @@ date,holiday,year
 1934-12-25,Christmas Day,1934
 1934-12-26,Boxing Day,1934
 1935-01-01,New Years day,1935
-1935-01-26,Australia Day,1935
+1935-01-28,Anniversary Day,1935
 1935-04-19,Good Friday,1935
 1935-04-20,Easter Saturday,1935
 1935-04-22,Easter Monday,1935
@@ -399,7 +399,7 @@ date,holiday,year
 1935-12-25,Christmas Day,1935
 1935-12-26,Boxing Day,1935
 1936-01-01,New Years day,1936
-1936-01-27,Australia Day,1936
+1936-01-27,Anniversary Day,1936
 1936-04-10,Good Friday,1936
 1936-04-11,Easter Saturday,1936
 1936-04-13,Easter Monday,1936
@@ -411,7 +411,7 @@ date,holiday,year
 1936-12-25,Christmas Day,1936
 1936-12-26,Boxing Day,1936
 1937-01-01,New Years day,1937
-1937-01-26,Australia Day,1937
+1937-02-01,Anniversary Day,1937
 1937-03-26,Good Friday,1937
 1937-03-27,Easter Saturday,1937
 1937-03-29,Easter Monday,1937
@@ -422,7 +422,7 @@ date,holiday,year
 1937-12-25,Christmas Day,1937
 1937-12-27,Boxing Day,1937
 1938-01-01,New Years day,1938
-1938-01-26,Australia Day,1938
+1938-01-26,Anniversary Day,1938
 1938-04-15,Good Friday,1938
 1938-04-16,Easter Saturday,1938
 1938-04-18,Easter Monday,1938
@@ -433,7 +433,7 @@ date,holiday,year
 1938-12-26,Christmas Day,1938
 1938-12-27,Boxing Day,1938
 1939-01-02,New Years day,1939
-1939-01-26,Australia Day,1939
+1939-01-30,Anniversary Day,1939
 1939-04-07,Good Friday,1939
 1939-04-08,Easter Saturday,1939
 1939-04-10,Easter Monday,1939
@@ -444,7 +444,7 @@ date,holiday,year
 1939-12-25,Christmas Day,1939
 1939-12-26,Boxing Day,1939
 1940-01-01,New Years day,1940
-1940-01-26,Australia Day,1940
+1940-01-29,Anniversary Day,1940
 1940-03-22,Good Friday,1940
 1940-03-23,Easter Saturday,1940
 1940-03-25,Easter Monday,1940
@@ -455,7 +455,7 @@ date,holiday,year
 1940-12-25,Christmas Day,1940
 1940-12-26,Boxing Day,1940
 1941-01-01,New Years day,1941
-1941-01-27,Australia Day,1941
+1941-01-27,Anniversary Day,1941
 1941-04-11,Good Friday,1941
 1941-04-12,Easter Saturday,1941
 1941-04-14,Easter Monday,1941
@@ -466,7 +466,7 @@ date,holiday,year
 1941-12-25,Christmas Day,1941
 1941-12-26,Boxing Day,1941
 1942-01-01,New Years day,1942
-1942-01-26,Australia Day,1942
+1942-01-26,Anniversary Day,1942
 1942-04-03,Good Friday,1942
 1942-04-04,Easter Saturday,1942
 1942-04-06,Easter Monday,1942
@@ -477,7 +477,7 @@ date,holiday,year
 1942-12-25,Christmas Day,1942
 1942-12-26,Boxing Day,1942
 1943-01-01,New Years day,1943
-1943-01-26,Australia Day,1943
+1943-01-26,Anniversary Day,1943
 1943-04-23,Good Friday,1943
 1943-04-24,Easter Saturday,1943
 1943-04-26,Anzac Day,1943
@@ -488,7 +488,7 @@ date,holiday,year
 1943-12-25,Christmas Day,1943
 1943-12-27,Boxing Day,1943
 1944-01-01,New Years day,1944
-1944-01-26,Australia Day,1944
+1944-01-31,Anniversary Day,1944
 1944-04-07,Good Friday,1944
 1944-04-08,Easter Saturday,1944
 1944-04-10,Easter Monday,1944
@@ -499,7 +499,7 @@ date,holiday,year
 1944-12-25,Christmas Day,1944
 1944-12-26,Boxing Day,1944
 1945-01-01,New Years day,1945
-1945-01-26,Australia Day,1945
+1945-01-29,Anniversary Day,1945
 1945-03-30,Good Friday,1945
 1945-03-31,Easter Saturday,1945
 1945-04-02,Easter Monday,1945
@@ -510,7 +510,7 @@ date,holiday,year
 1945-12-25,Christmas Day,1945
 1945-12-26,Boxing Day,1945
 1946-01-01,New Years day,1946
-1946-01-26,Australia Day,1946
+1946-01-28,Anniversary Day,1946
 1946-04-19,Good Friday,1946
 1946-04-20,Easter Saturday,1946
 1946-04-22,Easter Monday,1946
@@ -521,7 +521,7 @@ date,holiday,year
 1946-12-25,Christmas Day,1946
 1946-12-26,Boxing Day,1946
 1947-01-01,New Years day,1947
-1947-01-27,Australia Day,1947
+1947-01-27,Anniversary Day,1947
 1947-04-04,Good Friday,1947
 1947-04-05,Easter Saturday,1947
 1947-04-07,Easter Monday,1947
@@ -532,7 +532,7 @@ date,holiday,year
 1947-12-25,Christmas Day,1947
 1947-12-26,Boxing Day,1947
 1948-01-01,New Years day,1948
-1948-01-26,Australia Day,1948
+1948-01-26,Anniversary Day,1948
 1948-03-26,Good Friday,1948
 1948-03-27,Easter Saturday,1948
 1948-03-29,Easter Monday,1948
@@ -543,7 +543,7 @@ date,holiday,year
 1948-12-25,Christmas Day,1948
 1948-12-27,Boxing Day,1948
 1949-01-01,New Years day,1949
-1949-01-26,Australia Day,1949
+1949-01-31,Anniversary Day,1949
 1949-04-15,Good Friday,1949
 1949-04-16,Easter Saturday,1949
 1949-04-18,Easter Monday,1949
@@ -554,7 +554,7 @@ date,holiday,year
 1949-12-26,Christmas Day,1949
 1949-12-27,Boxing Day,1949
 1950-01-02,New Years day,1950
-1950-01-26,Australia Day,1950
+1950-01-30,Anniversary Day,1950
 1950-04-07,Good Friday,1950
 1950-04-08,Easter Saturday,1950
 1950-04-10,Easter Monday,1950
