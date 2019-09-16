@@ -1,0 +1,566 @@
+date,holiday,year
+1900-01-01,New Years day,1900
+1900-01-26,Australia Day,1900
+1900-04-13,Good Friday,1900
+1900-04-14,Easter Saturday,1900
+1900-04-16,Easter Monday,1900
+1900-05-25,Queen's Birthday,1900
+1900-08-06,Bank Holiday,1900
+1900-10-01,Labour Day,1900
+1900-11-12,Prince of Wales's Birthday,1900
+1900-12-25,Christmas Day,1900
+1900-12-26,Boxing Day,1900
+1901-01-01,New Years day,1901
+1901-01-26,Australia Day,1901
+1901-02-02,Day of Mourning for Queen,1901
+1901-04-05,Good Friday,1901
+1901-04-06,Easter Saturday,1901
+1901-04-08,Easter Monday,1901
+1901-06-03,Prince of Wales's Birthday,1901
+1901-08-05,Bank Holiday,1901
+1901-10-07,Labour Day,1901
+1901-11-11,King's Birthday,1901
+1901-12-25,Christmas Day,1901
+1901-12-26,Boxing Day,1901
+1902-01-01,New Years day,1902
+1902-01-27,Australia Day,1902
+1902-03-28,Good Friday,1902
+1902-03-29,Easter Saturday,1902
+1902-03-31,Easter Monday,1902
+1902-06-09,Prince of Wales's Birthday,1902
+1902-08-04,Bank Holiday,1902
+1902-10-06,Labour Day,1902
+1902-11-10,King's Birthday,1902
+1902-12-25,Christmas Day,1902
+1902-12-26,Boxing Day,1902
+1903-01-01,New Years day,1903
+1903-01-26,Australia Day,1903
+1903-04-10,Good Friday,1903
+1903-04-11,Easter Saturday,1903
+1903-04-13,Easter Monday,1903
+1903-06-08,Prince of Wales's Birthday,1903
+1903-08-03,Bank Holiday,1903
+1903-10-05,Labour Day,1903
+1903-11-09,King's Birthday,1903
+1903-12-25,Christmas Day,1903
+1903-12-26,Boxing Day,1903
+1904-01-01,New Years day,1904
+1904-01-26,Australia Day,1904
+1904-04-01,Good Friday,1904
+1904-04-02,Easter Saturday,1904
+1904-04-04,Easter Monday,1904
+1904-06-06,Prince of Wales's Birthday,1904
+1904-08-01,Bank Holiday,1904
+1904-10-03,Labour Day,1904
+1904-11-14,King's Birthday,1904
+1904-12-26,Christmas Day,1904
+1904-12-27,Boxing Day,1904
+1905-01-02,New Years day,1905
+1905-01-26,Australia Day,1905
+1905-04-21,Good Friday,1905
+1905-04-22,Easter Saturday,1905
+1905-04-24,Easter Monday,1905
+1905-06-05,Prince of Wales's Birthday,1905
+1905-08-07,Bank Holiday,1905
+1905-10-02,Labour Day,1905
+1905-11-13,King's Birthday,1905
+1905-12-25,Christmas Day,1905
+1905-12-26,Boxing Day,1905
+1906-01-01,New Years day,1906
+1906-01-26,Australia Day,1906
+1906-04-13,Good Friday,1906
+1906-04-14,Easter Saturday,1906
+1906-04-16,Easter Monday,1906
+1906-06-04,Prince of Wales's Birthday,1906
+1906-08-06,Bank Holiday,1906
+1906-10-01,Labour Day,1906
+1906-11-12,King's Birthday,1906
+1906-12-25,Christmas Day,1906
+1906-12-26,Boxing Day,1906
+1907-01-01,New Years day,1907
+1907-01-26,Australia Day,1907
+1907-03-29,Good Friday,1907
+1907-03-30,Easter Saturday,1907
+1907-04-01,Easter Monday,1907
+1907-06-03,Prince of Wales's Birthday,1907
+1907-08-05,Bank Holiday,1907
+1907-10-07,Labour Day,1907
+1907-11-11,King's Birthday,1907
+1907-12-25,Christmas Day,1907
+1907-12-26,Boxing Day,1907
+1908-01-01,New Years day,1908
+1908-01-27,Australia Day,1908
+1908-04-17,Good Friday,1908
+1908-04-18,Easter Saturday,1908
+1908-04-20,Easter Monday,1908
+1908-06-08,Prince of Wales's Birthday,1908
+1908-08-03,Bank Holiday,1908
+1908-10-05,Labour Day,1908
+1908-11-09,King's Birthday,1908
+1908-12-25,Christmas Day,1908
+1908-12-26,Boxing Day,1908
+1909-01-01,New Years day,1909
+1909-01-26,Australia Day,1909
+1909-04-09,Good Friday,1909
+1909-04-10,Easter Saturday,1909
+1909-04-12,Easter Monday,1909
+1909-06-07,Prince of Wales's Birthday,1909
+1909-08-02,Bank Holiday,1909
+1909-10-04,Labour Day,1909
+1909-11-15,King's Birthday,1909
+1909-12-25,Christmas Day,1909
+1909-12-27,Boxing Day,1909
+1910-01-01,New Years day,1910
+1910-01-26,Australia Day,1910
+1910-03-25,Good Friday,1910
+1910-03-26,Easter Saturday,1910
+1910-03-28,Easter Monday,1910
+1910-05-20,Day of Mourning for King,1910
+1910-06-06,King's Birthday,1910
+1910-06-27,Prince of Wales's Birthday,1910
+1910-08-01,Bank Holiday,1910
+1910-10-03,Labour Day,1910
+1910-12-26,Christmas Day,1910
+1910-12-27,Boxing Day,1910
+1911-01-02,New Years day,1911
+1911-01-26,Australia Day,1911
+1911-02-22,Coronation,1911
+1911-04-14,Good Friday,1911
+1911-04-15,Easter Saturday,1911
+1911-04-17,Easter Monday,1911
+1911-06-05,King's Birthday,1911
+1911-08-07,Bank Holiday,1911
+1911-08-22,Prince of Wales's Birthday,1911
+1911-10-02,Labour Day,1911
+1911-12-25,Christmas Day,1911
+1911-12-26,Boxing Day,1911
+1912-01-01,New Years day,1912
+1912-01-26,Australia Day,1912
+1912-04-05,Good Friday,1912
+1912-04-06,Easter Saturday,1912
+1912-04-08,Easter Monday,1912
+1912-06-03,King's Birthday,1912
+1912-06-24,Prince of Wales's Birthday,1912
+1912-08-05,Bank Holiday,1912
+1912-10-07,Labour Day,1912
+1912-12-25,Christmas Day,1912
+1912-12-26,Boxing Day,1912
+1913-01-01,New Years day,1913
+1913-01-27,Australia Day,1913
+1913-03-21,Good Friday,1913
+1913-03-22,Easter Saturday,1913
+1913-03-24,Easter Monday,1913
+1913-06-09,King's Birthday,1913
+1913-06-23,Prince of Wales's Birthday,1913
+1913-08-04,Bank Holiday,1913
+1913-10-06,Labour Day,1913
+1913-12-25,Christmas Day,1913
+1913-12-26,Boxing Day,1913
+1914-01-01,New Years day,1914
+1914-01-26,Australia Day,1914
+1914-04-10,Good Friday,1914
+1914-04-11,Easter Saturday,1914
+1914-04-13,Easter Monday,1914
+1914-06-08,King's Birthday,1914
+1914-06-29,Prince of Wales's Birthday,1914
+1914-08-03,Bank Holiday,1914
+1914-10-05,Labour Day,1914
+1914-12-25,Christmas Day,1914
+1914-12-26,Boxing Day,1914
+1915-01-01,New Years day,1915
+1915-01-26,Australia Day,1915
+1915-04-02,Good Friday,1915
+1915-04-03,Easter Saturday,1915
+1915-04-05,Easter Monday,1915
+1915-06-07,King's Birthday,1915
+1915-06-28,Prince of Wales's Birthday,1915
+1915-08-02,Bank Holiday,1915
+1915-10-04,Labour Day,1915
+1915-12-25,Christmas Day,1915
+1915-12-27,Boxing Day,1915
+1916-01-01,New Years day,1916
+1916-01-26,Australia Day,1916
+1916-04-21,Good Friday,1916
+1916-04-22,Easter Saturday,1916
+1916-04-24,Easter Monday,1916
+1916-06-05,King's Birthday,1916
+1916-06-26,Prince of Wales's Birthday,1916
+1916-08-07,Bank Holiday,1916
+1916-10-02,Labour Day,1916
+1916-12-25,Christmas Day,1916
+1916-12-26,Boxing Day,1916
+1917-01-01,New Years day,1917
+1917-01-26,Australia Day,1917
+1917-04-06,Good Friday,1917
+1917-04-07,Easter Saturday,1917
+1917-04-09,Easter Monday,1917
+1917-06-04,King's Birthday,1917
+1917-06-25,Prince of Wales's Birthday,1917
+1917-08-06,Bank Holiday,1917
+1917-10-01,Labour Day,1917
+1917-12-25,Christmas Day,1917
+1917-12-26,Boxing Day,1917
+1918-01-01,New Years day,1918
+1918-01-26,Australia Day,1918
+1918-03-29,Good Friday,1918
+1918-03-30,Easter Saturday,1918
+1918-04-01,Easter Monday,1918
+1918-06-03,King's Birthday,1918
+1918-06-24,Prince of Wales's Birthday,1918
+1918-08-05,Bank Holiday,1918
+1918-10-07,Labour Day,1918
+1918-12-25,Christmas Day,1918
+1918-12-26,Boxing Day,1918
+1919-01-01,New Years day,1919
+1919-01-27,Australia Day,1919
+1919-04-18,Good Friday,1919
+1919-04-19,Easter Saturday,1919
+1919-04-21,Easter Monday,1919
+1919-06-09,King's Birthday,1919
+1919-06-23,Prince of Wales's Birthday,1919
+1919-08-04,Bank Holiday,1919
+1919-10-06,Labour Day,1919
+1919-12-25,Christmas Day,1919
+1919-12-26,Boxing Day,1919
+1920-01-01,New Years day,1920
+1920-01-26,Australia Day,1920
+1920-04-02,Good Friday,1920
+1920-04-03,Easter Saturday,1920
+1920-04-05,Easter Monday,1920
+1920-06-09,Prince of Wales's Visit,1920
+1920-06-10,Prince of Wales's Visit,1920
+1920-08-02,Bank Holiday,1920
+1920-10-04,Labour Day,1920
+1920-12-25,Christmas Day,1920
+1920-12-27,Boxing Day,1920
+1921-01-01,New Years day,1921
+1921-01-26,Australia Day,1921
+1921-03-25,Good Friday,1921
+1921-03-26,Easter Saturday,1921
+1921-03-28,Easter Monday,1921
+1921-06-06,King's Birthday,1921
+1921-06-27,Prince of Wales's Birthday,1921
+1921-08-01,Bank Holiday,1921
+1921-10-03,Labour Day,1921
+1921-12-26,Christmas Day,1921
+1921-12-27,Boxing Day,1921
+1922-01-02,New Years day,1922
+1922-01-26,Australia Day,1922
+1922-04-14,Good Friday,1922
+1922-04-15,Easter Saturday,1922
+1922-04-17,Easter Monday,1922
+1922-06-05,King's Birthday,1922
+1922-06-26,Prince of Wales's Birthday,1922
+1922-08-07,Bank Holiday,1922
+1922-10-02,Labour Day,1922
+1922-12-25,Christmas Day,1922
+1922-12-26,Boxing Day,1922
+1923-01-01,New Years day,1923
+1923-01-26,Australia Day,1923
+1923-03-30,Good Friday,1923
+1923-03-31,Easter Saturday,1923
+1923-04-02,Easter Monday,1923
+1923-06-04,King's Birthday,1923
+1923-06-25,Prince of Wales's Birthday,1923
+1923-08-06,Bank Holiday,1923
+1923-10-01,Labour Day,1923
+1923-12-25,Christmas Day,1923
+1923-12-26,Boxing Day,1923
+1924-01-01,New Years day,1924
+1924-01-26,Australia Day,1924
+1924-04-18,Good Friday,1924
+1924-04-19,Easter Saturday,1924
+1924-04-21,Easter Monday,1924
+1924-06-09,King's Birthday,1924
+1924-06-23,Prince of Wales's Birthday,1924
+1924-08-04,Bank Holiday,1924
+1924-10-06,Labour Day,1924
+1924-12-25,Christmas Day,1924
+1924-12-26,Boxing Day,1924
+1925-01-01,New Years day,1925
+1925-01-26,Australia Day,1925
+1925-04-10,Good Friday,1925
+1925-04-11,Easter Saturday,1925
+1925-04-13,Easter Monday,1925
+1925-04-25,Anzac Day,1925
+1925-06-08,King's Birthday,1925
+1925-08-03,Bank Holiday,1925
+1925-10-05,Labour Day,1925
+1925-12-25,Christmas Day,1925
+1925-12-26,Boxing Day,1925
+1926-01-01,New Years day,1926
+1926-01-26,Australia Day,1926
+1926-04-02,Good Friday,1926
+1926-04-03,Easter Saturday,1926
+1926-04-05,Easter Monday,1926
+1926-04-26,Anzac Day,1926
+1926-06-07,King's Birthday,1926
+1926-08-02,Bank Holiday,1926
+1926-10-04,Labour Day,1926
+1926-12-25,Christmas Day,1926
+1926-12-27,Boxing Day,1926
+1927-01-01,New Years day,1927
+1927-01-26,Australia Day,1927
+1927-04-15,Good Friday,1927
+1927-04-16,Easter Saturday,1927
+1927-04-18,Easter Monday,1927
+1927-04-25,Anzac Day,1927
+1927-06-06,King's Birthday,1927
+1927-08-01,Bank Holiday,1927
+1927-10-03,Labour Day,1927
+1927-12-26,Christmas Day,1927
+1927-12-27,Boxing Day,1927
+1928-01-02,New Years day,1928
+1928-01-26,Australia Day,1928
+1928-04-06,Good Friday,1928
+1928-04-07,Easter Saturday,1928
+1928-04-09,Easter Monday,1928
+1928-04-25,Anzac Day,1928
+1928-06-04,King's Birthday,1928
+1928-08-06,Bank Holiday,1928
+1928-10-01,Labour Day,1928
+1928-12-25,Christmas Day,1928
+1928-12-26,Boxing Day,1928
+1929-01-01,New Years day,1929
+1929-01-26,Australia Day,1929
+1929-03-29,Good Friday,1929
+1929-03-30,Easter Saturday,1929
+1929-04-01,Easter Monday,1929
+1929-04-25,Anzac Day,1929
+1929-06-03,King's Birthday,1929
+1929-08-05,Bank Holiday,1929
+1929-10-07,Labour Day,1929
+1929-12-25,Christmas Day,1929
+1929-12-26,Boxing Day,1929
+1930-01-01,New Years day,1930
+1930-01-27,Australia Day,1930
+1930-04-18,Good Friday,1930
+1930-04-19,Easter Saturday,1930
+1930-04-21,Easter Monday,1930
+1930-04-25,Anzac Day,1930
+1930-06-09,King's Birthday,1930
+1930-08-04,Bank Holiday,1930
+1930-10-06,Labour Day,1930
+1930-12-25,Christmas Day,1930
+1930-12-26,Boxing Day,1930
+1931-01-01,New Years day,1931
+1931-01-26,Australia Day,1931
+1931-04-03,Good Friday,1931
+1931-04-04,Easter Saturday,1931
+1931-04-06,Easter Monday,1931
+1931-04-25,Anzac Day,1931
+1931-06-08,King's Birthday,1931
+1931-08-03,Bank Holiday,1931
+1931-10-05,Labour Day,1931
+1931-12-25,Christmas Day,1931
+1931-12-26,Boxing Day,1931
+1932-01-01,New Years day,1932
+1932-01-26,Australia Day,1932
+1932-03-25,Good Friday,1932
+1932-03-26,Easter Saturday,1932
+1932-03-28,Easter Monday,1932
+1932-04-25,Anzac Day,1932
+1932-06-06,King's Birthday,1932
+1932-08-01,Bank Holiday,1932
+1932-10-03,Labour Day,1932
+1932-12-26,Christmas Day,1932
+1932-12-27,Boxing Day,1932
+1933-01-02,New Years day,1933
+1933-01-26,Australia Day,1933
+1933-04-14,Good Friday,1933
+1933-04-15,Easter Saturday,1933
+1933-04-17,Easter Monday,1933
+1933-04-25,Anzac Day,1933
+1933-06-05,King's Birthday,1933
+1933-08-07,Bank Holiday,1933
+1933-10-02,Labour Day,1933
+1933-12-25,Christmas Day,1933
+1933-12-26,Boxing Day,1933
+1934-01-01,New Years day,1934
+1934-01-26,Australia Day,1934
+1934-03-30,Good Friday,1934
+1934-03-31,Easter Saturday,1934
+1934-04-02,Easter Monday,1934
+1934-04-25,Anzac Day,1934
+1934-06-04,King's Birthday,1934
+1934-08-06,Bank Holiday,1934
+1934-10-01,Labour Day,1934
+1934-12-25,Christmas Day,1934
+1934-12-26,Boxing Day,1934
+1935-01-01,New Years day,1935
+1935-01-26,Australia Day,1935
+1935-04-19,Good Friday,1935
+1935-04-20,Easter Saturday,1935
+1935-04-22,Easter Monday,1935
+1935-04-25,Anzac Day,1935
+1935-06-03,King's Birthday,1935
+1935-08-05,Bank Holiday,1935
+1935-10-07,Labour Day,1935
+1935-12-25,Christmas Day,1935
+1935-12-26,Boxing Day,1935
+1936-01-01,New Years day,1936
+1936-01-27,Australia Day,1936
+1936-04-10,Good Friday,1936
+1936-04-11,Easter Saturday,1936
+1936-04-13,Easter Monday,1936
+1936-04-25,Anzac Day,1936
+1936-05-20,King's funeral,1936
+1936-06-29,King's Birthday,1936
+1936-08-03,Bank Holiday,1936
+1936-10-05,Labour Day,1936
+1936-12-25,Christmas Day,1936
+1936-12-26,Boxing Day,1936
+1937-01-01,New Years day,1937
+1937-01-26,Australia Day,1937
+1937-03-26,Good Friday,1937
+1937-03-27,Easter Saturday,1937
+1937-03-29,Easter Monday,1937
+1937-04-26,Anzac Day,1937
+1937-05-12,Coronation,1937
+1937-08-02,Bank Holiday,1937
+1937-10-04,Labour Day,1937
+1937-12-25,Christmas Day,1937
+1937-12-27,Boxing Day,1937
+1938-01-01,New Years day,1938
+1938-01-26,Australia Day,1938
+1938-04-15,Good Friday,1938
+1938-04-16,Easter Saturday,1938
+1938-04-18,Easter Monday,1938
+1938-04-25,Anzac Day,1938
+1938-06-13,King's Day,1938
+1938-08-01,Bank Holiday,1938
+1938-10-03,Labour Day,1938
+1938-12-26,Christmas Day,1938
+1938-12-27,Boxing Day,1938
+1939-01-02,New Years day,1939
+1939-01-26,Australia Day,1939
+1939-04-07,Good Friday,1939
+1939-04-08,Easter Saturday,1939
+1939-04-10,Easter Monday,1939
+1939-04-25,Anzac Day,1939
+1939-06-12,King's Day,1939
+1939-08-07,Bank Holiday,1939
+1939-10-02,Labour Day,1939
+1939-12-25,Christmas Day,1939
+1939-12-26,Boxing Day,1939
+1940-01-01,New Years day,1940
+1940-01-26,Australia Day,1940
+1940-03-22,Good Friday,1940
+1940-03-23,Easter Saturday,1940
+1940-03-25,Easter Monday,1940
+1940-04-25,Anzac Day,1940
+1940-06-10,King's Day,1940
+1940-08-05,Bank Holiday,1940
+1940-10-07,Labour Day,1940
+1940-12-25,Christmas Day,1940
+1940-12-26,Boxing Day,1940
+1941-01-01,New Years day,1941
+1941-01-27,Australia Day,1941
+1941-04-11,Good Friday,1941
+1941-04-12,Easter Saturday,1941
+1941-04-14,Easter Monday,1941
+1941-04-25,Anzac Day,1941
+1941-06-09,King's Day,1941
+1941-08-04,Bank Holiday,1941
+1941-10-06,Labour Day,1941
+1941-12-25,Christmas Day,1941
+1941-12-26,Boxing Day,1941
+1942-01-01,New Years day,1942
+1942-01-26,Australia Day,1942
+1942-04-03,Good Friday,1942
+1942-04-04,Easter Saturday,1942
+1942-04-06,Easter Monday,1942
+1942-04-25,Anzac Day,1942
+1942-06-15,King's Day,1942
+1942-08-03,Bank Holiday,1942
+1942-10-05,Labour Day,1942
+1942-12-25,Christmas Day,1942
+1942-12-26,Boxing Day,1942
+1943-01-01,New Years day,1943
+1943-01-26,Australia Day,1943
+1943-04-23,Good Friday,1943
+1943-04-24,Easter Saturday,1943
+1943-04-26,Anzac Day,1943
+1943-04-26,Easter Monday,1943
+1943-06-14,King's Day,1943
+1943-08-02,Bank Holiday,1943
+1943-10-04,Labour Day,1943
+1943-12-25,Christmas Day,1943
+1943-12-27,Boxing Day,1943
+1944-01-01,New Years day,1944
+1944-01-26,Australia Day,1944
+1944-04-07,Good Friday,1944
+1944-04-08,Easter Saturday,1944
+1944-04-10,Easter Monday,1944
+1944-04-25,Anzac Day,1944
+1944-06-12,King's Day,1944
+1944-08-07,Bank Holiday,1944
+1944-10-02,Labour Day,1944
+1944-12-25,Christmas Day,1944
+1944-12-26,Boxing Day,1944
+1945-01-01,New Years day,1945
+1945-01-26,Australia Day,1945
+1945-03-30,Good Friday,1945
+1945-03-31,Easter Saturday,1945
+1945-04-02,Easter Monday,1945
+1945-04-25,Anzac Day,1945
+1945-06-11,King's Day,1945
+1945-08-06,Bank Holiday,1945
+1945-10-01,Labour Day,1945
+1945-12-25,Christmas Day,1945
+1945-12-26,Boxing Day,1945
+1946-01-01,New Years day,1946
+1946-01-26,Australia Day,1946
+1946-04-19,Good Friday,1946
+1946-04-20,Easter Saturday,1946
+1946-04-22,Easter Monday,1946
+1946-04-25,Anzac Day,1946
+1946-06-10,King's Day,1946
+1946-08-05,Bank Holiday,1946
+1946-10-07,Labour Day,1946
+1946-12-25,Christmas Day,1946
+1946-12-26,Boxing Day,1946
+1947-01-01,New Years day,1947
+1947-01-27,Australia Day,1947
+1947-04-04,Good Friday,1947
+1947-04-05,Easter Saturday,1947
+1947-04-07,Easter Monday,1947
+1947-04-25,Anzac Day,1947
+1947-06-09,King's Day,1947
+1947-08-04,Bank Holiday,1947
+1947-10-06,Labour Day,1947
+1947-12-25,Christmas Day,1947
+1947-12-26,Boxing Day,1947
+1948-01-01,New Years day,1948
+1948-01-26,Australia Day,1948
+1948-03-26,Good Friday,1948
+1948-03-27,Easter Saturday,1948
+1948-03-29,Easter Monday,1948
+1948-04-26,Anzac Day,1948
+1948-06-14,King's Day,1948
+1948-08-02,Bank Holiday,1948
+1948-10-04,Labour Day,1948
+1948-12-25,Christmas Day,1948
+1948-12-27,Boxing Day,1948
+1949-01-01,New Years day,1949
+1949-01-26,Australia Day,1949
+1949-04-15,Good Friday,1949
+1949-04-16,Easter Saturday,1949
+1949-04-18,Easter Monday,1949
+1949-04-25,Anzac Day,1949
+1949-06-13,King's Day,1949
+1949-08-01,Bank Holiday,1949
+1949-10-03,Labour Day,1949
+1949-12-26,Christmas Day,1949
+1949-12-27,Boxing Day,1949
+1950-01-02,New Years day,1950
+1950-01-26,Australia Day,1950
+1950-04-07,Good Friday,1950
+1950-04-08,Easter Saturday,1950
+1950-04-10,Easter Monday,1950
+1950-04-25,Anzac Day,1950
+1950-06-12,King's Day,1950
+1950-08-07,Bank Holiday,1950
+1950-10-02,Labour Day,1950
+1950-12-25,Christmas Day,1950
+1950-12-26,Boxing Day,1950
