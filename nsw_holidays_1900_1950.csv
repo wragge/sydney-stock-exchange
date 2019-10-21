@@ -15,7 +15,10 @@ date,holiday,year
 1901-04-05,Good Friday,1901
 1901-04-06,Easter Saturday,1901
 1901-04-08,Easter Monday,1901
+1901-05-27,Visit of the Duke of Cornwall,1901
+1901-05-28,Visit of the Duke of Cornwall,1901
 1901-06-03,Prince of Wales's Birthday,1901
+1901-07-03,Polling day,1901
 1901-08-05,Bank Holiday,1901
 1901-10-07,Labour Day,1901
 1901-11-11,King's Birthday,1901
@@ -94,6 +97,8 @@ date,holiday,year
 1908-04-20,Easter Monday,1908
 1908-06-08,Prince of Wales's Birthday,1908
 1908-08-03,Bank Holiday,1908
+1908-08-20,Visit of the American Fleet,1908
+1908-08-24,Visit of the American Fleet,1908
 1908-10-05,Labour Day,1908
 1908-11-09,King's Birthday,1908
 1908-12-25,Christmas Day,1908
@@ -123,11 +128,11 @@ date,holiday,year
 1910-12-27,Boxing Day,1910
 1911-01-02,New Years day,1911
 1911-01-26,Anniversary Day,1911
-1911-02-22,Coronation,1911
 1911-04-14,Good Friday,1911
 1911-04-15,Easter Saturday,1911
 1911-04-17,Easter Monday,1911
-1911-06-05,King's Birthday,1911
+1911-06-03,King's Birthday,1911
+1911-06-22,Coronation,1911
 1911-08-07,Bank Holiday,1911
 1911-08-22,Prince of Wales's Birthday,1911
 1911-10-02,Labour Day,1911
@@ -171,6 +176,7 @@ date,holiday,year
 1915-04-02,Good Friday,1915
 1915-04-03,Easter Saturday,1915
 1915-04-05,Easter Monday,1915
+1915-05-24,Empire Day,1915
 1915-06-07,King's Birthday,1915
 1915-06-28,Prince of Wales's Birthday,1915
 1915-08-02,Bank Holiday,1915
@@ -186,6 +192,8 @@ date,holiday,year
 1916-06-26,Prince of Wales's Birthday,1916
 1916-08-07,Bank Holiday,1916
 1916-10-02,Labour Day,1916
+1916-10-28,Conscription referendum,1916
+1916-11-18,Postponed 8-hour-day procession,1916
 1916-12-25,Christmas Day,1916
 1916-12-26,Boxing Day,1916
 1917-01-01,New Years day,1917
